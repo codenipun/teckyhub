@@ -1,3 +1,8 @@
+# TeckyHub
+-	A basic technology solution providing website frontend-ui designed by reactjs
+-	library used : reacr-router-dom, react-responsive-carousel, sass
+-	deploy : https://reactone-eta.vercel.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
